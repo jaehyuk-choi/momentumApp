@@ -12,6 +12,6 @@ By using openweather API, and geolocation users can find out where they are and 
 
 Used if statment, filter(), foreach().
 
-Learns how to deal with html by javascript or CSS.
+Learnt how to deal with html by javascript or CSS.
 
 
